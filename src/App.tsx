@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import {Quotes} from "./screens/Quotes";
 import {Timeout} from "./screens/Timeout";
+import {BadDesign} from "./screens/Memleak";
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
             </Route>
             <Route path="/timeout">
                 <Timeout />
+            </Route>
+            <Route path="/bad">
+                <BadDesign />
             </Route>
             <Route path="/">
             </Route>
