@@ -1,0 +1,38 @@
+[
+  {
+    "quoteId": 12,
+    "status": "sent"
+  },
+  {
+    "quoteId": 13,
+    "status": "viewed"
+  },
+  {
+    "quoteId": 14,
+    "status": "sent"
+  },
+  {
+    "quoteId": 15,
+    "status": "viewed"
+  },
+  {
+    "quoteId": 16,
+    "status": "rejected"
+  },
+  {
+    "quoteId": 17,
+    "status": "approved"
+  },
+  {
+    "quoteId": 18,
+    "status": "sent"
+  },
+  {
+    "quoteId": 19,
+    "status": "viewed"
+  },
+  {
+    "quoteId": 20,
+    "status": "sent"
+  }
+]
